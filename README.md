@@ -7,14 +7,14 @@ Simply does Developers -> BF -> Python
 
 | Key          | BF Equiv | C Equiv         |
 |--------------|----------|-----------------|
-| Developers   | +        | ++*ptr;         |
-| Developers*2 | -        | --*ptr;         |
-| Developers*3 | >        | ++ptr;          |
-| Developers*4 | <        | --ptr;          |
-| Developers*5 | ,        | *ptr=getchar(): |
-| Developers*6 | .        | putchar(*prt);  |
-| Developers*7 | [        | while (*ptr) {  |
-| Developers*8 | ]        | }               |
+| Developers   | +        | `++*ptr; `        |
+| Developers*2 | -        | `--*ptr;`         |
+| Developers*3 | >        | `++ptr;`          |
+| Developers*4 | <        | `--ptr;`          |
+| Developers*5 | ,        | `*ptr=getchar():` |
+| Developers*6 | .        | `putchar(*prt);`  |
+| Developers*7 | [        | `while (*ptr) {`  |
+| Developers*8 | ]        | `}`               |
 
 # Usage
 ```
