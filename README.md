@@ -12,7 +12,7 @@ Simply does Developers -> BF -> Python
 | Developers*3 | >        | `++ptr;`          |
 | Developers*4 | <        | `--ptr;`          |
 | Developers*5 | ,        | `*ptr=getchar():` |
-| Developers*6 | .        | `putchar(*prt);`  |
+| Developers*6 | .        | `putchar(*ptr);`  |
 | Developers*7 | [        | `while (*ptr) {`  |
 | Developers*8 | ]        | `}`               |
 
